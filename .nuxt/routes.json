@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/lichao/学习/web全栈/file-upload/front/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_550c2922"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/lichao/学习/web全栈/file-upload/front/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e936f3ea"
+  }
+]
